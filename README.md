@@ -46,13 +46,13 @@ SVG: [red](dest/horizontal/mono-red.svg), [black](dest/horizontal/mono-black.svg
 
 ![](pictures/v-full.png)
 
-SVG: [red](dest/vertical/full-red.svg), [black](dest/vertical/full-black.svg), [red-white](dest/vertical/full-red-white.svg), [white](dest/vertical/full-white.svg).
+SVG: [red](dest/vertical/full-red.svg), [red-white](dest/vertical/full-red-white.svg), [black](dest/vertical/full-black.svg), [white](dest/vertical/full-white.svg).
 
 ### Flat
 
 ![](pictures/v-flat.png)
 
-SVG: [red](dest/vertical/flat-red.svg), [black](dest/vertical/flat-black.svg), [red-white](dest/vertical/flat-red-white.svg), [white](dest/vertical/flat-white.svg).
+SVG: [red](dest/vertical/flat-red.svg), [red-white](dest/vertical/flat-red-white.svg), [black](dest/vertical/flat-black.svg), [white](dest/vertical/flat-white.svg).
 
 ### Monochrome
 
