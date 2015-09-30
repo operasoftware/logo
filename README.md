@@ -58,7 +58,7 @@ SVG: [red](dest/vertical/flat-red.svg), [red-white](dest/vertical/flat-red-white
 
 ![](pictures/v-mono.png)
 
-SVG: [red](dest/vertical/mono-red.svg), [black](dest/vertical/mono-black.svg), [white](dest/vertical/mono-white.svg).
+SVG: [red](dest/vertical/mono-red.svg), [white](dest/vertical/mono-white.svg), [black](dest/vertical/mono-black.svg).
 
 ---
 Copyright [Opera Software ASA](http://opera.com) © 2015
