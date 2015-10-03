@@ -1,4 +1,4 @@
-// Box-sizing
+// Sizing
 
 *, *:before, *:after {
 	box-sizing:border-box;
@@ -53,26 +53,26 @@ table {
 
 .logo {
 
+	background:#424242;
+
+	&__column {
+		margin:auto;
+		max-width:1200px;
+		}
+
 	&__title {
 		position:absolute;
 		clip:rect(0 0 0 0);
-		overflow:hidden;
-		margin:-1px;
-		padding:0;
-		width:1px;
-		height:1px;
-		border:none;
 		}
 
-	&__row {
+	&__list {
 		display:flex;
 		flex-wrap:wrap;
 		}
 
 	&__item {
-		padding:4% 6%;
 
-		// Width
+		padding:0 5%;
 
 		&--half {
 			width:50%;
@@ -80,24 +80,35 @@ table {
 		&--quarter {
 			width:25%;
 			}
-
-		// Back
-
 		&--light {
 			background:#F6F6F6;
 			}
 		&--dark {
 			background:#5C5C5C;
 			}
+
 		}
 
 	&__link {
+
+		display:block;
+		transition:transform 0.1s linear;
+
 		&:hover,
 		&:focus {
-			display:block;
-			transition:0.1s linear all;
 			transform:scale(1.1);
 			}
+
+		}
+
+	&__item--half &__image {
+		margin:15% 0;
+		}
+	&__item--quarter &__image {
+		margin:30% 0;
+		}
+	&__list:not(:last-of-type) &__item--quarter &__image {
+		margin-bottom:0;
 		}
 
 	}
