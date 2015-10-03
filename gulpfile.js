@@ -16,7 +16,7 @@ gulp.task('default', ['svg', 'html', 'styles'], function () {
 	});
 
 	gulp.watch('src/screen.scss', ['styles']);
-	gulp.watch('src/index.html', ['html']).on('change', sync.reload);
+	gulp.watch('src/index.html', ['html']);
 });
 
 gulp.task('svg', function () {
