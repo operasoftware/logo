@@ -53,7 +53,7 @@ table {
 
 .logo {
 
-	background:#424242;
+	background:darken(#3A2125, 4%);
 
 	&__column {
 		margin:auto;
@@ -84,7 +84,7 @@ table {
 			background:#F6F6F6;
 			}
 		&--dark {
-			background:#5C5C5C;
+			background:#3A2125;
 			}
 
 		}
