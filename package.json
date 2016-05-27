@@ -1,7 +1,7 @@
 {
   "private": true,
   "dependencies": {
-    "browser-sync": "^2.9.7",
+    "browser-sync": "^2.12.9",
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "^3.0.2",
     "gulp-beml": "^1.0.0",
