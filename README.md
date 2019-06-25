@@ -32,11 +32,11 @@ SVG: [red](.svg), [black](.svg), [red-white](.svg), [white](.svg).
 
 ![](pictures/h-flat.png)
 
-SVG: [red](dest/horizontal/flat-red.svg), [black](dest/horizontal/flat-black.svg), [red-white](dest/horizontal/flat-red-white.svg), [white](dest/horizontal/flat-white.svg).
+SVG: [red](.svg), [black](.svg), [red-white](.svg), [white](dest/horizontal/flat-white.svg).
 
 ### Monochrome
 
-![](pictures/h-mono.png)
+![](.png)
 
 SVG: [red](dest/horizontal/mono-red.svg), [black](dest/horizontal/mono-black.svg), [white](dest/horizontal/mono-white.svg).
 
