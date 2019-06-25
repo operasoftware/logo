@@ -1,32 +1,32 @@
-# [Opera Logos](https://operasoftware.github.io/logo/)
+# [Nian Logos](https://knphang.github.io/logo/)
 
 ## Logo
 
 ### Full
 
-![](pictures/l-full.png)
+![](.png)
 
-SVG: [red](dest/logo/full-red.svg), [white](dest/logo/full-white.svg), [black](dest/logo/full-black.svg).
+SVG: [red](.svg), [white](.svg), [black](.svg).
 
 ### Flat
 
-![](pictures/l-flat.png)
+![](.png)
 
-SVG: [red](dest/logo/flat-red.svg), [white](dest/logo/flat-white.svg), [black](dest/logo/flat-black.svg).
+SVG: [red](.svg), [white](.svg), [black](.svg).
 
 ### Monochrome
 
 ![](pictures/l-mono.png)
 
-SVG: [red](dest/logo/mono-red.svg), [white](dest/logo/mono-white.svg), [black](dest/logo/mono-black.svg).
+SVG: [red](.svg), [white](.svg), [black](.svg).
 
 ## Horizontal
 
 ### Full
 
-![](pictures/h-full.png)
+![](.png)
 
-SVG: [red](dest/horizontal/full-red.svg), [black](dest/horizontal/full-black.svg), [red-white](dest/horizontal/full-red-white.svg), [white](dest/horizontal/full-white.svg).
+SVG: [red](.svg), [black](.svg), [red-white](.svg), [white](.svg).
 
 ### Flat
 
