@@ -44,21 +44,21 @@ SVG: [red](dest/horizontal/mono-red.svg), [black](dest/horizontal/mono-black.svg
 
 ### Full
 
-![](pictures/v-full.png)
+![]()
 
 SVG: [red](dest/vertical/full-red.svg), [red-white](dest/vertical/full-red-white.svg), [black](dest/vertical/full-black.svg), [white](dest/vertical/full-white.svg).
 
 ### Flat
 
-![](pictures/v-flat.png)
+![]()
 
 SVG: [red](dest/vertical/flat-red.svg), [red-white](dest/vertical/flat-red-white.svg), [black](dest/vertical/flat-black.svg), [white](dest/vertical/flat-white.svg).
 
 ### Monochrome
 
-![](pictures/v-mono.png)
+![]()
 
-SVG: [red](dest/vertical/mono-red.svg), [white](dest/vertical/mono-white.svg), [black](dest/vertical/mono-black.svg).
+SVG: [red](.svg), [white](dest/vertical/mono-white.svg), [black](dest/vertical/mono-black.svg).
 
 ---
-Copyright [Opera Software ASA](http://opera.com) © 2015
+Copyright [Nian Software](http://keenian.com) © 2019
